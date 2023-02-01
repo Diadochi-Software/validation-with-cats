@@ -5,7 +5,7 @@ class OrderValidator {
 
   import OrderValidator._
 
-  def validate(order: Order): OrderValidation[Order] = ???
+  def validate(order: OrderForm): OrderValidation[Order] = ???
 
 }
 
